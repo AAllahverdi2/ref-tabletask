@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "0": {
+        "firstName": "Ali",
+        "lastName": "Agamaliyev",
+        "age": 20
+      },
+      "1": {
+        "firstName": "Ali",
+        "lastName": "Agamaliyev",
+        "age": 20
+      },
+      "2": {
+        "firstName": "Ali",
+        "lastName": "Agamaliyev",
+        "age": 20
+      },
+      "3": {
+        "firstName": "Ali",
+        "lastName": "Agamaliyev",
+        "age": 20
+      },
+      "4": {
+        "firstName": "Ali",
+        "lastName": "Agamaliyev",
+        "age": 20
+      },
+      "id": "c5b9"
+    }
+  ]
+}
